@@ -1,5 +1,7 @@
 ## unreleased
 
+## [1.33.6] - 2026-08-02
+
 - CLI: Prevent YAML data loss when quoted scalars contain high-precision numbers (#233)
 
 ## [1.33.5] - 2026-06-23
